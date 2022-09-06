@@ -1,0 +1,193 @@
+.h{ /* h1 style title */
+    font-size: 45px;
+    margin: 10px 0 0 50px;
+}
+.g{ /* paragrap title */
+    font-size: 20px;
+    margin: 10px 0  0 80px;
+}
+.ID { /* title bagroud color */
+    background-color:#1F904E;
+    color: white;
+   
+}
+
+.stylesheet1 { /* root file */
+        /*display:*/
+        border-style:solid;
+        border-color: black; 
+        display: block;
+}
+button { width: 175px; height: 40px; text-align:left; margin: 15px 20px 0px 20px; border: grey; font-family: 'Courier New', Courier, monospace;
+        border-radius: 8px;}
+.button:hover
+        {
+                background-color:#1F904E;
+                border-color: #1F904E;  
+                color: white;  
+                font-size: 20px;
+                font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.style1{
+    float: left;
+    width: 18%;
+    padding: 1% 1%;
+
+}
+.style2
+    {
+        float: left;
+        width: 58%;
+        padding: 1% 1%;
+     
+    }
+.style3
+        {
+            float: left;
+            width: 18%;
+            padding: 1% 1%;
+            height: 409px;
+            background-color:#85C1E9;
+            color: azure;
+        }
+ .tab {
+            margin: 444px 0px auto 25px;
+            border-style: solid;
+            background-color: burlywood;
+            padding: 1% 1%;
+}
+.back {
+    background-color: #FF5733;
+    color: white;
+}
+
+/* Sheet two style cmd */
+.stylesheet2
+    { 
+        
+
+    }
+#style21
+    {
+        background-color: white;
+        float: left;
+        width:78% ;
+        color: black;
+        padding: 1% 1%;
+    }
+#style22
+    {
+        background-color: white;
+        float: left;
+        width: 18%;
+        height: 340.330px;
+        padding: 1% 1%;
+    }
+.button1 {
+    background-color:#FF5733;
+    color: white;
+    border-radius: 16px ;
+}
+.button1:hover{
+        background-color: white;
+        color:#FF5733 ;
+        border-color: #FF5733 ;
+        border-style:solid;
+}
+#a1 {
+    color: #FF5733;
+}
+.style23
+    {
+        background-color:#F5B7B1 ;
+        padding: 2% 2%;
+        color:#FF5733 ;
+        margin-top: 351px;
+    }
+#t {
+    text-align: center;
+    padding: 2% 2%;
+}
+ 
+/* sheet 3 style cmd */
+
+.stylesheet31
+    {
+        padding-left: 1%;
+    }
+
+
+#c{
+    color: #50DA28;
+   font-size: 50px;
+   
+}
+.button2{
+    background-color: #7C7D7C;
+    color: white;
+    border-radius: 0px;
+
+}
+.button2:hover{
+    background-color: black;
+}
+#a3 {
+    color: black;
+}
+
+#di {
+    border-style: solid;
+    border-color: #BEC3BE;
+    background-color: #D9DDD9;
+    padding: 20px;
+
+}
+/* Stylesheet4 */
+#b4 {
+    background-color: black;
+    color: #2CE62C;
+
+}
+
+.button4
+    {
+        background-color:black;
+        color: #2CE62C;
+        margin: auto auto auto 1px;
+        border-radius: 2px;
+    }
+.button4:hover
+    {color: white;}
+.style41
+    { float: left;
+        width: 68%}
+.style42
+        {
+            float: left;
+            width: 28%;
+            border-style: solid;
+            border-color: white;
+            color: white;
+            padding: 1% 1%;
+        }
+#a4
+        {
+            color: white;
+            
+        }
+
+#stylesheet4
+        {
+            height: 250px;
+        }
+#p4
+        {
+            color: white;
+        }
+#d4{
+    color: white;
+    text-align: center;
+    border-style: solid;
+    border-color: white;
+    padding: 1% 1%;
+}
